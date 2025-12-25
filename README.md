@@ -1,1 +1,1 @@
-![endlinedev-stats](https://github-readme-stats.vercel.app/api?username=endlinedev&show_icons=true&theme=dark)
+![endlinedev-stats](https://github-readme-activity-graph.vercel.app/graph?username=endlinedev&theme=github-compact)
